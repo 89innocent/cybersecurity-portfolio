@@ -127,19 +127,19 @@ I am open to junior positions, internships, attachments, volunteer opportunities
 
 # 📜 Certifications
 
-** INDUSTRIAL**: Excellence in Software Development | SANDC
+**INDUSTRIAL:** Excellence in Software Development | SANDC
 Technology Ltd.
-** INDUSTRIAL**: Certificate of successful completion of
+**INDUSTRIAL:** Certificate of successful completion of
 practical training at Institute of Accountancy Arusha.
-** EDUCATION**: Bachelor's Degree in Cyber security
-** EDUCATION**: Ordinary Diploma in Record and Information Management
+**EDUCATION:** Bachelor's Degree in Cyber security
+**EDUCATION:** Ordinary Diploma in Record and Information Management
 ---
 
 # 📫 Contact
 
 **Email:** innocentdeusdedit@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/innocent-deusdedit-188329350
+**LinkedIn:** https://www.linkedin.com/in/innocent-deusdedit-188329350/
 
 **GitHub:** https://github.com/89innocent
 
