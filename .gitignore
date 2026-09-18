@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Runtime/generated data
+data/logs/
+data/quarantine/
+data/backups/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/

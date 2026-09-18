@@ -1,0 +1,8 @@
+flask
+psutil
+pyyaml
+watchdog
+numpy
+pandas
+scikit-learn
+reportlab

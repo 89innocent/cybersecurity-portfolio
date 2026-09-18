@@ -1,0 +1,5 @@
+app_name: Malware Defense System
+monitor_path: .
+log_file: data/logs/system.log
+quarantine_folder: data/quarantine
+debug: true
