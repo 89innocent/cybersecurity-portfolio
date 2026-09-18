@@ -129,10 +129,13 @@ I am open to junior positions, internships, attachments, volunteer opportunities
 
 **INDUSTRIAL:** Excellence in Software Development | SANDC
 Technology Ltd.
+
 **INDUSTRIAL:** Certificate of successful completion of
 practical training at Institute of Accountancy Arusha.
-**EDUCATION:** Bachelor's Degree in Cyber security
-**EDUCATION:** Ordinary Diploma in Record and Information Management
+
+**EDUCATION:** Bachelor's Degree in Cyber security.
+
+**EDUCATION:** Ordinary Diploma in Record and Information Management.
 ---
 
 # 📫 Contact
